@@ -1,3 +1,6 @@
+# React Counter App
+This is a simple React project that demonstrates the usage of the useState hook to manage state and update a counter value dynamically.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
